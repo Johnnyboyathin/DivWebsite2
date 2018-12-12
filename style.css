@@ -12,4 +12,23 @@ background-color:crimson;
 height: 20px;
 background-color:aqua;
 }
-.coloumleft
+.columnleft { 
+height: 600px;
+background-color: darkgreen;
+Width:20%;
+float: left;
+}
+.columncenter {
+height:600px;
+background-color: darkslateblue;
+width: 60%;
+float: left;
+
+}
+
+.columnright {
+    height:600px; 
+    background-color: firebrick;
+    width: 20%;
+    float: left;
+}

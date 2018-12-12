@@ -32,3 +32,10 @@ float: left;
     width: 20%;
     float: left;
 }
+
+.footer {
+    height: 30px;
+    background-color: fuchsia;
+    float: left;
+    width: 100%;
+}
